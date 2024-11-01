@@ -2,3 +2,4 @@
 
 - .editorconfig
 - ~/.hyper.js
+- ~/.zshrc
