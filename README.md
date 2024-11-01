@@ -3,3 +3,4 @@
 - .editorconfig
 - ~/.hyper.js
 - ~/.zshrc
+- ~/.gitconfig
