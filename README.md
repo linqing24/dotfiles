@@ -4,3 +4,4 @@
 - ~/.hyper.js
 - ~/.zshrc
 - ~/.gitconfig
+- .prettierrc.json
